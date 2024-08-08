@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 🔭 I’m currently working on todo-list web cum app
+##  🌱 I’m currently learning js,html,css
+##  👯 I’m looking to collaborate on AI projects
+##  🤔 I’m looking for help with ML 
+
 <!--
 **RitesHTechBuzz/RitesHTechBuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
