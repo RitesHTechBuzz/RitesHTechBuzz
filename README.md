@@ -1,4 +1,4 @@
-Here we go again
+Aspiring AI Engineer | Proficient in Python, OpenCV, and Web Development | Passionate about solving complex problems and building impactful projects
 
 <!--
 **RitesHTechBuzz/RitesHTechBuzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
