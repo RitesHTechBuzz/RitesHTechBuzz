@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there !, it's Ritesh:
 Welcome to my GitHub profile! I'm a passionate developer who loves working on innovative projects and exploring new technologies.<br><br>🚀 About Me<br>🔭 I’m currently working on exciting projects related to Web Development, Open Source, and Software Engineering.<br>🌱 I’m constantly learning and improving my skills in Django, Python, and SQL.<br>💡 I enjoy solving complex problems and contributing to open-source projects.<br>📫 Let's connect!<br>Thanks for stopping by! Happy Coding! 🚀
 
 
